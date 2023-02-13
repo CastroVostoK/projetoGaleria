@@ -7,4 +7,4 @@ Scopo do projeto: O presente projeto consiste em uma galeria de fotos que utiliz
 # Parte lógica 
 - Foi criado um plugin jQuery que servirá tanto para renderizar os botões de acordo com as cidades e também para filtrar os mesmos quando precionado(clicado).
 
-![preview(./.github/ProjetoGaleria) 
+![preview](./.github/ProjetoGaleria) 
